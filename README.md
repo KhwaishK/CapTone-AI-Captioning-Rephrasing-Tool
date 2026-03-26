@@ -6,7 +6,7 @@ It also includes model evaluation on a mini COCO dataset subset, using **BLEU sc
 ---
 
 ## ✨App Preview
-![App Preview]<img width="1896" height="872" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/2462376a-53cf-4ca4-99fd-5a3705c159a5" />
+<img width="1896" height="872" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/2462376a-53cf-4ca4-99fd-5a3705c159a5" />
 
 ---
 
