@@ -6,7 +6,7 @@ It also includes model evaluation on a mini COCO dataset subset, using **BLEU sc
 ---
 
 ## ✨App Preview
-![App Preview](Data/preview.png)
+![App Preview]<img width="1896" height="872" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/2462376a-53cf-4ca4-99fd-5a3705c159a5" />
 
 ---
 
@@ -23,7 +23,7 @@ It also includes model evaluation on a mini COCO dataset subset, using **BLEU sc
 - 🏷️ **Hashtag Generation** using KeyBERT keyword extraction  
 - ✍️ **Tone Rephrasing** with LLaMA 3.1 (Funny, Professional, Poetic, and Marketing/Ad tones)  
 - 🧪 **Model Evaluation** on a mini COCO dataset with BLEU scores  
-- 🖥️ **Streamlit Web App** for easy user interaction  
+- 🖥️ **Gradio Web App** for easy user interaction  
 
 ---
 
@@ -133,7 +133,7 @@ ui:
 - **Transformers** – Hugging Face BLIP model for captioning
 - **KeyBERT** – Keyword extraction for hashtags
 - **Groq (LLaMA 3.1)** – Tone-based rephrasing
-- **Streamlit** – Interactive user interface
+- **Gradio** – Interactive user interface
 - **PyTorch, Pandas, Pillow, NLTK** – Core ML and evaluation utilities
 
 ---
